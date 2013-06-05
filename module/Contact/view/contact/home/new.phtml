@@ -1,0 +1,15 @@
+<hr />
+<div>
+    <div><?=$this->errorMsg($invalids)?></div>    
+    
+    <form method="post" action="new">
+    Name <br />
+    <input type="text" name="name" value="<?=$row['name']?>" /><br />
+    Email <br />
+    <input type="text" name="email" value="<?=$row['email']?>" /><br />
+    Phone <br />
+    <input type="text" name="phone" value="<?=$row['phone']?>" /><br />
+    <br /><br />
+    <input type="submit" value="Save" />
+    </form>
+</div>

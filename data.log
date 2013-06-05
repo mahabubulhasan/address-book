@@ -1,0 +1,3 @@
+2013-05-19T22:15:14+02:00 INFO (6): getAllRows called on Contact\Model\Contact, using params []
+2013-05-19T22:18:08+02:00 INFO (6): all_rows called on Contact\Model\Contact, using params []
+2013-05-19T22:19:10+02:00 INFO (6): all_rows triggered
