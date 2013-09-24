@@ -1,1 +1,1 @@
-This vendor/ directory is where third-party modules should be installed.
+This is the directory where you should be placing your zend framework.
