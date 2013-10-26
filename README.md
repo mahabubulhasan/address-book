@@ -20,3 +20,7 @@ CREATE TABLE IF NOT EXISTS `contact` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 </pre>
+
+<b>NOTE:</b> This source doesn't contain the Zend Framework 2 library, please download library from here <a href="https://github.com/zendframework/zf2">https://github.com/zendframework/zf2</a> then copy the <code>library</code> directory and paste it inside the <code>vendor/ZF2/</code> directory.
+
+If you failed to run this code for some unknown reason, please follow the instructions in <a href="wp.me/pfBBw-cA">here</a>.
