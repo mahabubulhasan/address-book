@@ -25,4 +25,4 @@ CREATE TABLE IF NOT EXISTS `contact` (
 
 <b>Alternative way to create project</b>
 
-If you failed to run this code for some unknown reason, please follow the instructions in <a href="wp.me/pfBBw-cA">here</a>.
+If you failed to run this code for some unknown reason, please follow the instructions in <a href="http://wp.me/pfBBw-cA">here</a>.
