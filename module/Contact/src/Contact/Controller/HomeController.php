@@ -46,7 +46,7 @@ class HomeController extends AbstractActionController {
                 ),
             ),
             'email' => array(
-                'name' => 'name',
+                'name' => 'email',
                 'required' => true,
                 'filters' => array(
                     array('name' => 'StripTags'),
@@ -62,7 +62,7 @@ class HomeController extends AbstractActionController {
                 ),
             ),
             'phone' => array(
-                'name' => 'name',
+                'name' => 'phone',
                 'required' => true,
                 'filters' => array(
                     array('name' => 'StripTags'),
